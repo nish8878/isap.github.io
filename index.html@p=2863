@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html  lang="de-DE">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">   
+    <link rel="stylesheet" href="wp-content/themes/inhubber/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="wp-content/themes/inhubber/assets/css/main.css">
+
+    		<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:33.333333333333% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:28px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:40px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}		</style>
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Digitalisierung in der Immobilienbranche - INHUBBER</title>
+	<meta name="description" content="Digitalisierung im Wohnungs- und Immobilienbereich | Dokumenten- und Vertragsmanagements und rechtliche und praktische Aspekte." />
+	<link rel="canonical" href="index.html@p=2863" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Digitalisierung in der Immobilienbranche - INHUBBER" />
+	<meta property="og:description" content="Digitalisierung im Wohnungs- und Immobilienbereich | Dokumenten- und Vertragsmanagements und rechtliche und praktische Aspekte." />
+	<meta property="og:url" content="https://inhubber.com/veranstaltungen/digitalisierung-immobilienbranche/" />
+	<meta property="og:site_name" content="INHUBBER" />
+	<meta property="article:published_time" content="2022-07-28T08:29:40+00:00" />
+	<meta property="article:modified_time" content="2022-09-29T08:29:19+00:00" />
+	<meta property="og:image" content="https://inhubber.com/wp-content/uploads/2021/02/photo.png" />
+	<meta property="og:image:width" content="2880" />
+	<meta property="og:image:height" content="1072" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Elena Mechik" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Verfasst von" />
+	<meta name="twitter:data1" content="Elena Mechik" />
+	<meta name="twitter:label2" content="Geschätzte Lesezeit" />
+	<meta name="twitter:data2" content="1 Minute" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='https://www.googletagmanager.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="INHUBBER &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="INHUBBER &raquo; Kommentar-Feed" href="https://inhubber.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="INHUBBER &raquo; Digitalisierung in der Immobilienbranche Kommentar-Feed" href="veranstaltungen/digitalisierung-immobilienbranche/feed/index.html" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inhubber.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css@ver=6.0.3' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('index.html@p=2863');--wp--preset--duotone--grayscale: url('index.html@p=2863');--wp--preset--duotone--purple-yellow: url('index.html@p=2863');--wp--preset--duotone--blue-red: url('index.html@p=2863');--wp--preset--duotone--midnight: url('index.html@p=2863');--wp--preset--duotone--magenta-yellow: url('index.html@p=2863');--wp--preset--duotone--purple-green: url('index.html@p=2863');--wp--preset--duotone--blue-orange: url('index.html@p=2863');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='SFSImainCss-css'  href='wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css@ver=2.7.8' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css'  href='wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css@ver=3.3.43' media='all' />
+<script src='wp-includes/js/jquery/jquery.min.js@ver=3.6.0' id='jquery-core-js'></script>
+<script src='wp-includes/js/jquery/jquery-migrate.min.js@ver=3.3.2' id='jquery-migrate-js'></script>
+
+<!-- Von Site Kit hinzugefügtes Google-Analytics-Snippet -->
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-196719079-1' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["inhubber.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-196719079-1", {"anonymize_ip":true});
+</script>
+
+<!-- Ende des von Site Kit hinzugefügten Google-Analytics-Snippets -->
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/2863" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.3" />
+<link rel='shortlink' href='index.html@p=2863' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=https%253A%252F%252Finhubber.com%252Fveranstaltungen%252Fdigitalisierung-immobilienbranche%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=https%253A%252F%252Finhubber.com%252Fveranstaltungen%252Fdigitalisierung-immobilienbranche%252F&amp;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.85.0" />
+
+<!-- This site is optimized with the Schema plugin v1.7.9.5 - https://schema.press -->
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org\/","@type":"WPHeader","url":"https:\/\/inhubber.com\/veranstaltungen\/digitalisierung-immobilienbranche\/","headline":"Digitalisierung in der Immobilienbranche","description":"Bei unserem Webinar sprechen Experten über die Aspekte des digitalen Dokumenten- und Vertragsmanagements und der digitalen Signatur, wenn..."},{"@context":"http:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/inhubber.com\/veranstaltungen\/digitalisierung-immobilienbranche\/","headline":"Digitalisierung in der Immobilienbranche","description":"Bei unserem Webinar sprechen Experten über die Aspekte des digitalen Dokumenten- und Vertragsmanagements und der digitalen Signatur, wenn...","copyrightYear":"2022"}]</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.5 - https://schema.press -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/inhubber.com\/veranstaltungen\/digitalisierung-immobilienbranche\/"},"url":"https:\/\/inhubber.com\/veranstaltungen\/digitalisierung-immobilienbranche\/","headline":"Digitalisierung in der Immobilienbranche","datePublished":"2022-07-28T08:29:40+00:00","dateModified":"2022-09-29T08:29:19+00:00","publisher":{"@type":"Organization","@id":"https:\/\/inhubber.com\/#organization","name":"key2contract GmbH","logo":{"@type":"ImageObject","url":"https:\/\/inhubber.com\/wp-content\/themes\/inhubber\/assets\/img\/logo-scroll.svg","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/inhubber.com\/wp-content\/uploads\/2021\/02\/photo.png","width":2880,"height":1072},"articleSection":"Veranstaltungen","description":"Bei unserem Webinar sprechen Experten über die Aspekte des digitalen Dokumenten- und Vertragsmanagements und der digitalen Signatur, wenn es um die Immobilienbranche geht. Was sind die rechtlichen und praktischen Aspekte, wenn es um die digitale Transformation geht? Wir zeigen Beispiele wie digitale Transformation der Verträge und Dokumente einfach und","author":{"@type":"Person","name":"Elena Mechik","url":"https:\/\/inhubber.com\/author\/elena-mechikinhubber-com\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/281b19e7dfe118c7f3c44beae60642b2?s=96&d=mm&r=g","height":96,"width":96}}}</script>
+
+<meta name="follow.it-verification-code-N3ZZZ1ZVR2lCY1M2SlFOSzIvSzlXRHFHSmhCcjJFb0pmS3pyRzhUSkxJWmdTMS9pLzlmRE1WL05HTHN5a1NmWGxTeEt0WTRSc2dLVEJoMHh5K2IxdnZsWFV2ZGtIdll2cjdWK1BxV08zQ0hkVUwycjZVWmh2VkwyVURYNldBNFF8Vnl2S052RDZhdjJ3MU5zK1FyalpWVXlaMlBrOTY1WnFISnZ3M1ZiK1NWaz0=" content="mR5yrvVWcBS5eVZdJAHe"/><link rel="pingback" href="xmlrpc.php"><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Von Site Kit hinzugefügtes Google-Tag-Manager-Snippet -->
+<script>
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-MXX6579' );
+			
+</script>
+
+<!-- Ende des von Site Kit hinzugefügten Google-Tag-Manager-Snippets -->
+<link rel="icon" href="wp-content/uploads/2021/02/favicon.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2021/02/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2021/02/favicon.png" />
+<meta name="msapplication-TileImage" content="https://inhubber.com/wp-content/uploads/2021/02/favicon.png" />
+</head>
+<body class="post-template post-template-single-events post-template-single-events-php single single-post postid-2863 single-format-standard sfsi_actvite_theme_flat">
+    <header class="header header_events">
+        <div class="wrap">
+            <a href="xmlrpc.php" class="logo"  rel="home" title="INHUBBER">
+                <img src="wp-content/themes/inhubber/assets/img/logo.svg" alt="INHUBBER" class="logo-img">
+                <img src="wp-content/themes/inhubber/assets/img/logo-scroll.svg" alt="INHUBBER" class="logo-scroll">
+            </a>
+            <nav class="menu">
+                <ul id="menu__list" class="menu__list"><li id="menu-item-2160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2160"><a href="index.html@p=2863#">Produkt</a>
+<ul class="sub-menu">
+	<li id="menu-item-1230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1230"><a href="index.html@p=1223">Produkt</a></li>
+	<li id="menu-item-2159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2159"><a href="index.html@p=1085">Sicherheit</a></li>
+</ul>
+</li>
+<li id="menu-item-2157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2157"><a href="index.html@p=2863#">Lösungen</a>
+<ul class="sub-menu">
+	<li id="menu-item-2158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2158"><a href="index.html@p=2124">Einkauf</a></li>
+	<li id="menu-item-2497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2497"><a href="index.html@p=2362">Mieterliste</a></li>
+</ul>
+</li>
+<li id="menu-item-2628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2628"><a href="index.html@p=2863#">Ressourcen</a>
+<ul class="sub-menu">
+	<li id="menu-item-318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="index.html@p=307">Blog</a></li>
+	<li id="menu-item-2629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2629"><a href="ebooks.1">eBooks</a></li>
+	<li id="menu-item-1587" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1587"><a href="category/veranstaltungen/index.html">Veranstaltungen</a></li>
+</ul>
+</li>
+<li id="menu-item-1257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="index.html@p=973">Über uns</a></li>
+</ul>            </nav>
+
+            <ul class="language">	<li class="lang-item lang-item-2 lang-item-de current-lang lang-item-first"><a  lang="de-DE" hreflang="de-DE" href="index.html@p=2863">de</a></li>
+	<li class="lang-item lang-item-5 lang-item-en no-translation"><a  lang="en-US" hreflang="en-US" href="en/index.html">en</a></li>
+</ul>
+                        
+                            <a href="https://app.inhubber.com/" target="_blank" class="sign-in">Login</a>
+                <!-- Calendly Link-Widget Beginn -->
+                <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+                <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+                <a href="index.html@p=2863" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/elena-mechik/demo-meeting'});return false;" class="btn">Demo vereinbaren</a>
+                <!-- Calendly Link-Widget Ende -->
+                        <a href="index.html@p=2863" class="burger-menu">
+                <span class="light">
+   <img src="wp-content/themes/inhubber/assets/img/svg/navigation-menu-dark-close.svg" alt="Click open" class="close-menu">
+                    <img src="wp-content/themes/inhubber/assets/img/svg/navigation-menu-dark-open.svg" alt="Click close" class="open-menu">
+                </span>
+                <span class="dark">
+                    <img src="wp-content/themes/inhubber/assets/img/svg/navigation-menu-dark-close.svg" alt="Click open" class="close-menu">
+                    <img src="wp-content/themes/inhubber/assets/img/svg/navigation-menu-dark-open.svg" alt="Click close" class="open-menu">
+                </span>
+            </a>
+        </div>
+    </header>
+    <div class="menu-mobile">
+        <div class="wrap">
+            <nav class="menu">
+                <ul id="menu__list" class="menu__list"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2160"><a href="index.html@p=2863#">Produkt</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1230"><a href="index.html@p=1223">Produkt</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2159"><a href="index.html@p=1085">Sicherheit</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2157"><a href="index.html@p=2863#">Lösungen</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2158"><a href="index.html@p=2124">Einkauf</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2497"><a href="index.html@p=2362">Mieterliste</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2628"><a href="index.html@p=2863#">Ressourcen</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-318"><a href="index.html@p=307">Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2629"><a href="ebooks.1">eBooks</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1587"><a href="category/veranstaltungen/index.html">Veranstaltungen</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1257"><a href="index.html@p=973">Über uns</a></li>
+</ul>            </nav>
+            <div class="lang-wrap">
+                <ul class="language">
+                    	<li class="lang-item lang-item-2 lang-item-de current-lang lang-item-first"><a  lang="de-DE" hreflang="de-DE" href="index.html@p=2863">de</a></li>
+	<li class="lang-item lang-item-5 lang-item-en no-translation"><a  lang="en-US" hreflang="en-US" href="en/index.html">en</a></li>
+                </ul>
+                                    <a href="https://app.inhubber.com/" target="_blank" class="sign-in">Login</a>
+                            </div>
+        </div>
+    </div><div class="my-header-event wrap">
+<div class="my-header-event-cat">
+<a href="category/veranstaltungen/index.html">
+Inhubber Veranstaltungen
+</a>
+</div>
+<div class="my-header-event-title"><h1 class="title">Digitalisierung in der Immobilienbranche</h1></div>
+<div class="my-adress-and-data-single-event"><span class="news__date-day-single-event">24</span> <span class="news__date-month-single-event">Nov</span>, Donnerstag um 12:00 Uhr (online)</div>									
+<div class="my-event-single-hr"><hr></div>
+<div class="my-header-event-but">
+				                <a href="https://webinar.getresponse.com/Qr12i/immobilien-webinar/" target="_blank" class="btn btn-big">
+                    Registrieren                </a>
+				</div>
+                <div class="social__list-single-event">
+                    <div class="sfsi_widget sfsi_shortcode_container"><div class="norm_row sfsi_wDiv "  style="width:145px;text-align:center;"><div style='width:24px; height:24px;margin-left:5px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='index.html@p=2863' id='sfsiid_facebook_icon' style='width:24px;height:24px;opacity:1;background:#336699;'  ><img data-pin-nopin='true' alt='Facebook' title='Facebook' src='wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_facebook.png' width='24' height='24' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a><div class="sfsi_tool_tip_2 fb_tool_bdr sfsiTlleft" style="opacity:0;z-index:-1;" id="sfsiid_facebook"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_inside"><div  class='icon3'><a target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=https://inhubber.com/veranstaltungen/digitalisierung-immobilienbranche' style='display:inline-block;'  > <img class='sfsi_wicon'  data-pin-nopin='true' alt='fb-share-icon' title='Facebook Share' src='wp-content/plugins/ultimate-social-media-icons/images/share_icons/fb_icons/en_US.svg' /></a></div></div></div></div></div><div style='width:24px; height:24px;margin-left:5px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='index.html@p=2863' id='sfsiid_twitter_icon' style='width:24px;height:24px;opacity:1;background:#00ACEC;'  ><img data-pin-nopin='true' alt='Twitter' title='Twitter' src='wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_twitter.png' width='24' height='24' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a></div></div><div style='width:24px; height:24px;margin-left:5px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='index.html@p=2863' id='sfsiid_linkedin_icon' style='width:24px;height:24px;opacity:1;background:#0877B5;'  ><img data-pin-nopin='true' alt='LinkedIn' title='LinkedIn' src='wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_linkedin.png' width='24' height='24' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a><div class="sfsi_tool_tip_2 linkedin_tool_bdr sfsiTlleft" style="opacity:0;z-index:-1;" id="sfsiid_linkedin"><span class="bot_arow bot_linkedin_arow"></span><div class="sfsi_inside"><div  class='icon2'><a target='_blank' href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Finhubber.com%2Fveranstaltungen%2Fdigitalisierung-immobilienbranche"><img class="sfsi_wicon" data-pin-nopin= true alt="Share" title="Share" src="wp-content/plugins/ultimate-social-media-icons/images/share_icons/Linkedin_Share/en_US_share.svg" /></a></div></div></div></div></div></div ><div id="sfsi_holder" class="sfsi_holders" style="position: relative; float: left;width:100%;z-index:-1;"></div ><script>window.addEventListener("sfsi_functions_loaded", function()
+			{
+				if (typeof sfsi_widget_set == "function") {
+					sfsi_widget_set();
+				}
+			}); </script><div style="clear: both;"></div></div>                </div>
+</div>
+    <div class="bunner bunner_events wrap my-bunner_events pc" style="background:url('wp-content/uploads/2021/02/photo.png') center/cover no-repeat">
+        <div class="wrap">
+            <div class="bunner__info">
+                
+                <div class="events-excerpt">
+                                    </div>
+
+            </div>
+        </div>
+    </div>
+ <div class="wrap my-bunner_events mob">
+		<img width="2880" height="1072" src="wp-content/uploads/2021/02/photo.png" class="attachment-full size-full wp-post-image" alt="Digitalisierung" loading="lazy" srcset="wp-content/uploads/2021/02/photo.png 2880w, wp-content/uploads/2021/02/photo-300x112.png 300w, wp-content/uploads/2021/02/photo-1024x381.png 1024w, wp-content/uploads/2021/02/photo-768x286.png 768w, wp-content/uploads/2021/02/photo-1536x572.png 1536w, wp-content/uploads/2021/02/photo-2048x762.png 2048w" sizes="(max-width: 2880px) 100vw, 2880px" />		</div>
+    <div class="article article_events my-opus-single-event">
+		<div class="wrap">
+			
+<p></p>
+
+
+<p>Bei unserem Webinar sprechen Experten über die Aspekte des digitalen Dokumenten- und Vertragsmanagements und der digitalen Signatur, wenn es um die Immobilienbranche geht. Was sind die rechtlichen und praktischen Aspekte, wenn es um die digitale Transformation geht? Wir zeigen Beispiele wie digitale Transformation der Verträge und Dokumente einfach und sicher geschehen kann.</p>
+<h2>Digitalisierung &#8211; INHUBBER erklärt wie!</h2>
+<p><!--(figmeta)eyJmaWxlS2V5IjoiR3VzQkpIZ0pKcDdFVmg5NUFjQnFpNyIsInBhc3RlSUQiOi0xLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)--><!--(figma)ZmlnLWtpd2kEAAAAISEAALV7e5gkyVFfZnX3PHZ292737vRCCCGEEELA3t7p7iSEUHV39XTtdHfVVVX37B5CrZrumpm67eluunpmdw4hhCzLWBYgXgLzkIWMQQhbCBBgMAghY/BDCCOwwIBlEMLGGGP8xvr4+Pj9MuvVO3t8/MN+33ZGRkZGRkZGREZm1rxVdqMkCQ+i4HQeCXHxmmP3hn5geoHAv57TtIaNttnbtnxUZd+3vFLdUNRWrwm44tvbPbMDqOoHNzoWgJoChr5FXmuKVnEe+ju2O/SsjmOy53rPCezWjaHfdvqd5rDvbntmk/03UnDYdHqsb2Z1z2p5lt8G6pzfsHrWEGi3PXy8b3k3gNwqIz3L7RB5vmm3WigvmLfjBKJfByzYIM3RCCoAyrPM5tDpKXKhKrueHXBk2ZuNI/cwTCKQNdAUWJQcRF1noEC5G0/H8fTAO56Qpuf0nrA8Bw3Caap2ctA6vh+NFlCi6TT6XatH7ciG2RuYPiBj23P6LoBKyzO7pKvWHadjmb2h41qeGdhOD8jawGoEjgdojTpFud6xFdsNq9OxXZ/gpgciLJZajXOetd3vmN7QdTo3thWTLQzVa1pNKKmgOx9Y1ynSBb9jN4i46N/o1h2u7D12D4P1FPZeP7AbO1TVJb9tutZw1w7aw7Tv5YbT64GnEvA+/zCcR7vx8jCIbi+1Djb8x/umZ6FVFOLKpm12HWVNRuDZSiCYA6qVvNp0dil59W6S11zTMzsd2BWWvjv07O02hVlbRXesFrHr9Uk0HXexKpDQNX1/GLTBdJtWBbv3usqWZdP0diyOaHT7ncDWtlShqqHJet9jU7XhdJy8VutwXNVnzYetKEgtDno0nea2hfqG7pJVN2FFXsck73O+0wqGigdqW23Ta+Y1ZcOWZ+kVuGBdb3T6vraHi+0+cff4ZtDPjeReNQqAS51+1+45vh1wiMtuGE/ThVj3nY5NjQsop2nDGjEaRQVG5iiWSh+wToBEQem0JuAqOQ5E6fpV7a6pZlaDh1yzAazZR4gy/iicRFrpCBOeFTSUvls2pydbdkcNEthqPSvW/n40SgWt2rAoD0HChAmgUTQ9xy2qsuXAvrGAveaw3ulTLqNuNnZWURVaYEO58ZoD+7B1xBJ9F66FUnacXQVAhEDL4MMQOsOG6dI5q0Vt2HK8hnL9Gpk2o9FsES7j2RR9MgfHyFhWqBOwxHTtHaswMqN3fLQXLfrTeJmgj2dyGsK1r1sdH4CERAhj1IvRmE2T5aK0aFhM4AXblbiyazKeGRgjVWnFb5hqAtUWODaHukctrSjqNX+5mN2MzEl8MEWHnJmAl9sqAEunH6SgoYkb4RxcsvlhKmq1Ze7Nhul5zq4yIU6ioqvW4327g5gJNwSyqlldm8UctosIq0atWwOLzTLjatRns0kUTp15lGm22u9py4aM6ObD+QFLv18PPFPBxnVl8Gqh1czas0X81Gy6DCfonvp+SXEwAuVaxrU+AlrLVita9B5Ei2UMmyXOcdFU6lp3gsDpAjK6s+MkahwvktkCi9O0WiZiBRpEw3N8mKjtAZbWDYs2i3VFzcAmqoZyTUwFsaMB20C96qp4UUPRsDuA1gZwgdmiGy8W5J7bFvxPra9UANwRYcLqbQdcfKMZJofay4wGoitQojANqTxRW1LV7W0DJa65FkvpD1gYbpNbZcW6PZ8tlndaXwXBHfEN23hqYiJD7NpNNb7MEG0rU28nPJ0dL7cX8VgzqWqDLKmzENDQ9lkp+rjhchktpmgCle0q20LAUoFLqsU6Xs68KImfAutcRUocpZlcDplDMOjTSeRH6aSgcM930nAQWCbXVTZgE3qFkW8gu+g1GD4rgdV1Hc9UuQaMWbOBlpZRrqIzURWgzGIihg5HN/X65MK2EY+egNqUBBLbAbZXBWtqZY0gP6M2rStN1JgdQ4hFSlt7Wtpc0xWzHzBJwSzQ/dpxsoz3T1F92p6u2bCGcFSdJFVUN19rXYUWIJEU+fYT1jBwhmlYX0HASLAodtdFdoEaW0DDEDeFocPLtQbzGAPvsDysy5C5KOqy7ymtMLijrDQ6jkoeqjanHpZYnHd6Q1i/IhNmC2yGgd21ENNQl10HyexQzdPQsG6ooFeb2zHgqm7ADkOymq6phGQNVC7mRUNE/qpE3Wh6Jr1nE2071o2s2zlUB45OpbaCRThN4kLG5yDWIn8JhohfiLrpvi2atg8LGlgAZQsZL0oD6RhS35bn5ClMpYTK4li1hNMRq1bC5CFrze37bY1Lma0XmIzXRoHSrDYLRM7pHDNgjUs5bRWYjNP5AqU5XSgQOaeLWlAsA4gyZvesIDN+965gNctLK7ic62U1UopNmd5XxmU87y8jNcsHyqic4zPgxnZjyDbUnomUAEcaswfvVmeFZyHpc5AkFJhnW2GCo4Fe8Q2cghr9ut1AgyDrrCKRoJWqBvdQnV+hB609b6qSbgVT031XcGs6euX1dX+0mE0mzXih/Qx8UsP9K2IPJq3ihO4LJ13SxaIxHH8Zod267iK+ar9vgAN3YVWT230EQGkkOFphMMDrQk5m2EoVCH+fYDuT1YXYFPIAP8Yefiohfqp6x0Pn26jJU/wYHlCgLhC38FM5xE9VcfKXszk6jAiLgZDzmfYyEBjdcLmIbwu5dnTlCury6MqDKIyjK1dRVI4eJLJ69CCRtaMHiVxzwwViuT0dR+hnHBzHYxGUmG5lyRsaT8LJcYQ+8lglcs8RRgta6oVHkZCV/fAonpyCXibcJgAYYLJMRot4vkStQtpBuIhDdDk+ihbxqBUfHC+gWmwM6RlEwBJstU1Lp9NUZ2rAapjVrv48HMHOVvq6yDgcrGe6tcnArKdp+10YtLi4nGCZA5J6nBYVjD0aFqbWt9y7Ec4T2FfRBS6hEnmJYphVDNdCUk3RK0AM8xpzuoapYngNKEx2G+Baib+b6b0sFnI+/CL1w8YNQMnjKyVjcXIqGzatrF8ii1QxtxWFS6XgP5Au8ng0icZVV5GkUhgN1ye+QmlQKgFR1tIT/Zpv95gerTtes4dyw2x5bN9s9lR8ONfrdynSFo5tJsrz2IQ4pQtNXV5s6/IeHA1Y3muaKlu81NDlZa+hyvt8Xb/fG6iD5QN0TJTP8HfV3cczG/4uy2dhcYh/dqPRpdzP8fXm/hlt2yf+ueke+5mO16N8z6NSUH4Wthwu5fObgTpxfHarY3IeL+hue9wzP8eHraF84Q42YJSf20JChfJFbV1+XluP++JA1z//cV2+xNXlFzClRvnSTqvO+hc6riq/yAtU+cWu7n/F3elRTw92ED5QXkVJOR/ygg7rD6Nk/WVm3RugfMSsD1h/FCXlfmyg+bx8AIFQvqLe2eX6fAlK0r0SJem+1Nxpcx6valxTR4Uva7SUI7y64aq62eh7pKtj92W9geDGstnS/K0WjosoWyivotxG+RDKNobleDZK8r/W1vPBaNuUp9N2rtFukFSpfKhnY29H6VxzH30MpXvNfYx8Hr/mvvwKSu+ae+VhlH7nWpf9go7TIH0fGw3XZdC1mjxR76KkHNe7O13ib/Q6Ktd5otffCVB+ORIUyvUalD7KrxhA4Shf6/oB8UOUxL/O2/FYDz23zXLP69e57iMfSRrKcaDliIKeSov3sUxcv4MB7hpQHg50ezzQ835ysKPs5ebACzyUE5RXUR75PiKvEFOUrM9QPoRyjvJhlF+J8mUoFygfQZmgfBTlEiX1dIzy5ShPfB8xW4hbKMnvNkryO0VJfk+hJL+vQkl+r0dJfl+NkvzegJL8vgYl+b1R+v5VMvxa2RgoCd9EgCz/FgHyfDMBMv3bBMj1LQTI9u8QIN+vI0DGf5cAOb8VgBL17xEg57cRIOevJ0DO30CAnL+RADm/nQA5fxMBcv5mAuT8LQTI+VsBKJm/jQA5v4MAOX87AXL+DgLk/PcJkPN3EiDn7yJAzt9NgJy/hwA5vxPAQ+T8DwiQ87sIkPP3EiDndxMg539IgJy/jwA5/yMC5Pz9BMj5BwiQ83sAPEzOP0iAnN9LgJx/iAA5/2MC5PxPCJDz+wiQ8w8TIOf3EyDnHyFAzj8K4GXk/GMEyPkDBMj5xwmQ808QIOefJEDO/5QAOf8UAXL+aQLk/M8IkPPPAHiEnH+WADl/kAA5/xwBcv4QAXL+eQLk/GEC5PzPCZDzLxAg539BgJx/EcCj5PxLBMj5XxIg539FgJz/NQFy/jcEyPkjBMj5lwmQ80cJkPOvECDnfwvgMXL+VQLk/DEC5PxrBMj51wmQ878jQM4fJ0DOv0GAnH+TADn/ewLk/FsAVIj6bQLk/DsEyPk/ECDnTxAg5/9IgJx/lwA5/x4Bcv4kAXL+fQLk/Cl5510DUqsltmtxVcgsxTKYU3bD+ZxJjjT2F7MjpmXLGX6N+mS2J6TcO11GiahIfckhjAou7Q9ZnzIjQ/41Dpehol1H9hVPcGZsMGk0x0/i9CvkxpJjI51LDsPx7FYC0DiMDw5xpD5EeoeEcRwtw3gCqBpB5IS5BBLHExy5I1xSAF5bRkfqyko3rZ/Eezj1jQhvqJtXPWz67iKMc3+zQ46QGC1CzG1TbO4tyHOKkVE7p4QRxiWl53uFHFERyJ6NGRPJJfPsykmcxHtIqqSookgvzC+KWoKEOxGvkWvgPU32Z4sj8VqxHiulPyU2FBAcIkmeUvKnxGY4BQ4nB5stQNyrEUjrkHViadbFJdTLN8SXxbnFDOcMkECSrYQNAM7vK/U1KGy6aq8XF+acS0u1iDeIi9HR7Mm4AS4ubhmhxHV5DxPELhTZhAEIo3YzOhVjIfeB7cTTqB1RM2BvENOMDyLwrSCDR02nlXNRZWVXE9aQrOLeSTM7PzoMmTpHiwQmJvOa6mg3ObyREHZOogWus6IghDLhhLIyUXdc6grlOlSMq+kJpEmwmcjaweR0fphgF5Fr4/x6OcEeItd1twEGBAq626Bo+ezeJOXmfjiZ7OF2poWGRIzluUOs8gLMb9ZntzHAW6TcQg3Qb0l5vl1qFEZ1DxdJ40Q8gVPNYoIpZUegymFGhwyvhpepVF5hrMMudZJ+Xchb8XjJs5nBthsAKgRyFVdZM5MRjliore/Hi2TZyHSGydRgZ+X62jYVIYy10ezoKIRgqf8WB7LrQusXUsGt9zFlpVEMdZZ5OD5JXWOtmWtVGMYCR0xMWcqCk6FPokqnRuVEVXrR8tZscTMTYQrLDycYbKxGzAQ5u9CMXbjGxDQklZmIQEr/9GhvNknZJ6qCcQNEAgVnTBIyMHC+pJv5dIMWZgNXhWIztllYNAy1UHIOHDIJnIXgBNvRlMEB89RjyVmZs/ShHsivxvSi/QhnX+jH2NyPJ9EO3AQmnahGJZyBvrS6dojAiiMsZ+NitFSCBLmJrGZhuDaJEYkWpxQzmPnHezz67oGMCHEiuaTz2RSWoAdaP57uT3jZOwVNmeNGnPSzpgh+Kza11I2sfzdMsMB6fpVRhtVc5fx4bxInh2DGcSltMAui8KhTSMdBjDsHqdjYjmgtDiZNhflLztqozNI6WTn7/i1IitCWElPvCKYrIhhZD6Xyu/MdXP1rcVa3KH5pQbIumrV+NINHqrB+PyVBpFRhfX8/iZaw0coiHMfH3AOqRXyvocjj+1oyX0ThGBTrAQO8cjN7uj+DgSm+HSHHx9qmQGS4iNQzNjSjk3iUPS5k90s8gKjXDdnAkVAdkg2Fw5UTryZQr+iOXhbwYbhp50Zjd6iSDnnHIIhTrCD3hH2mzgepMUV7DL3H+zEcHgaKXprn92MTc6ArBE83jRwBGeA1FpKoawSBi7/sllASzlsM1rK7wgruxTCPjLKaVnPiWorI6Ne6Zq+vDl/rqQB1hOaDBcOsXdxbY5R81rzWHuLqGJcHuNTD7V76ECfPMNBzyHvicGk3h9nL71lyEwaFcEhrMoy9HK24vA+qLFCNzHB6IXINpUNFhct5c4C7DXV9I3ANmj5dS39XXagYLPmphyLAS6S6D9UPDRYSmMXSR94CZ0yEsZEc7+/jdg5OqrZ/NcAVgZs8mLxOBJeikpwc0LN7TBSwiKgiEaSl/gTsFjXneMk9hTsy2hFUoFNse84Ul29SrIOiNVuM4GV8eESkuJkAvZHKMthOmQnDbg17lpXeZ5qdXfOGD0B21G7LhyhExSUlfFjIkN+RGAiHuQdVpsdHPnwPekoEdsfU35CqJRrr00qx7xwcI8Is0tr6KFXzxpyBB69cj4jNbQRVrE8lHUTmrPKd2EV8wALeiovPTjYEfH1lh8SzEDajgBLzfk4bSPrKjss8z9khxki/2qhYrZZ+Ua3i6sPxCNXSV7Y1HW4Vv9IeoXc7HeIkLK20MRilHlA5ZsYlxJwSYtIueDEtrvfQp9hy0ivnenQI44N+wE/ZERcEU8Bb03C3bcE/2nanOXRaeI1kM24P8aygP5yR5mKUjxniIXd6YE4PoCjk2gh1paoR4/Vp4WVRsaKjawd5DvoeL2LII8dxMp+Ep8oGt3CO0FVlcpDWnRwfxOn2WpmrCvSGbvrwgg439bRc1eZFk/B4OjrUHapzhdQdjpCdwxEAwgnUagKsxEkzmkTIn2Fn1cYM4jID6IY8AmB1srVN3/MYulAYaXxKwxWgahaRajkPazqeM0mG3FEKMmeAMAE2zmxtEFuP9GAfhaHnnaEieBXWE4NZnbqzq10HpmWmA6kPn5CATTEl49Mq9yFjlkF4ABt92fwQWaRYE4YCNPKROWwnu4F/naiUqprg0SWN+pxQW4BGPTYN1dLUWGrUywvnXEtB3fAKbKI3lTLXNaTRX1KcfDZSUDe8Ej3zzXEzr+jGLx0hWi4BnFOARr4qoXtfx7kFpUZ9GQJaflY6n1d046vHcBs4NfxkKjblhVJVE5iheuPm5CD2xaKmm+tF3LamzDo5uXvOIDVx4wgxEO33stSoZqSiIVa2HDovncVqcos97cTRgReUl1cQmqhVDO9obUKx951BauJt5OJlJ7y/XNck7VJm/0AG6yYbFhIeLML5IY0Eq7EpnnEHShNey7HZc8mmeOadOE26w6hhw9IXKukG4bNWMZqscxRjlToxCpA8G0Va083dRO066blxUzynXNckvSWiSIAk4CbGBslnlOuaxDnMv2PBYoCF2hqfK557N7zu4qKGgUzcI0zF88Rnlqqa4HGNaYRz8XzxvLyiGz1dV1/pvEB8VlHTzT5FVLzauQDiReL5d0HrDkHeMsi+qXmx+OwzSE3cJ76BaCCeIV6QwbppwGrp4PYs8TmrGE22u3fnx0MvFC+8E6dJr5+kYxcKhGI/9yxWk9/AHjVxWU/EG6V8UVHV7U+AGqrSKFJ8Xhmhab6cPpKeh/fEi4uabn4NbbsH18YNxednsG76CjVZ7hpvluIlWUW3vTZSqX8i3iXlF6Swbhki/o6xDauPiGBT4qXipXegNOHrtL/7WX72ASm/cBWl6UKObKoQlMAHxWPii1YxmmwPO+RMZ04J7lvlF5fqmmKkT9WcBK7CxZWiqtvHCXcXbEbr4sEU1A1REUYaaQJ19Q6UJtznAm1Hs6NouTjFha58qIzQNAd6iTIkqR5eRWm6Q/h/+uXOq0ScV3Tjk6qeRhB48c1yXZNMFMoNx0w+QHJUrmuSKXdGBH51ep9lFd02T1ReQu3gTUB8ZVHV7Yt9XqV1EYibcaLCPQJzcgapiZcLvVCzFuKWFLg5zKua4EQvfB0SaqVm/UF9SwneABbBTjmwqIvbCnkNN3L8iqgpThOdASopi6TxO6R4Kk401tUHc7IF168ClHcon/5fP8bz9EnWwgnzqPvVZfKBTj6x/7+BHpM+HTeQQc2mHZ5eOEGM8TUrrRD/9vI4RKpXULxRXQqmJJjzaBExWOCeoEz1tWWqNmwBXoRoUSZ5U5nEWWCNEfQkHpVKaH+CfT4aPxEtZmh6c7mplz7K6w8C9vH0dLYxtS5xiPu8s60tbCEUXTyJV6pSM4J8Iia4Yyzh3CzTm+L9imaHKfy0lG+ViH3p+Z+ZHDwxwHPWHIdqdRT3sSEW+eLbiobCbJQvwj2/XiIAIp0JJ0wjMNtvyO6hsDvrRVRMvjG9bWpGUH0858hY1bdLXtAhjcS2O5t3on2sXpEfwJe+aYXAYzS9g+KbC4r6bLmcHd2Fy7fcSXM3Rt9aEBUtMbOMORJDpBqY3LfdSRNg81kleQe1RRfDDBPYIiJOiJ2A/vXtUts27FffIsF/oTtl+d8p4UIgTVdF3cq8W+KVr8AFWADRAWWBaha3Nd8lozD/IKmHN0DoGUet4ssgF49/IyW0fzSbLXlvhm7vkvH0EGbFa/aJr2MxluudGdpXAbNoeHfWEMDHCvQPZGhLhZei4T15g9q6ioYfzBq4bxTo92bokjwtfgpEMdD+UzJO8ibo9HtQ140Z5ntlQkjp4YMSr5mqump3PyePsytBqKEclL5P4kCGRcl8cA+Pn+gJTTr6tH4dN04w8DQs/VC6pD7HKC3nhyVePUtNRaD8kMQzaJysxsj3yUjpjUo1E1xeEAD+h0Hpz/aRCEGqlBXQ7we6N5v252Ns2SmLH0nFhMnBPkaKGq3Cw0PqqMBhN8AUfkziegaGeBhPxhCrGZ8gNPBe7QMl43IR8KLFCR5vyBdD/DgZTbGKaFTqbeOqpkDxG84t8ZO0fx0t0hu990hkCYlikh/8f0EiDqnIAbHQNwC5uIYn2mL4ID6KkFbARn+mTNkNUcF/5VE/K1HJWkrO8EE5jrBhTVUd5xcsGJIUdPhQ6SZM527YGeTPy7saXT0nheF9WIbpxcMvSjwBQ12re1dHJUGD1DJqmOEUUz1QEqjZ/ajEO/HsREmSxWXV8F4JlmkDrxCWYJwRYK1+KWsrxLGLScPM8MZ8hsIs7gPfL/H2rPaEVLYtPEEvYV99rG5nRep1vEnrWwvOCGTyI3iIPUC0GztTJ2jpr6wSsZC/nOP391caPlpaQf9wdjwZ+0fYTEz1Lkg7/RWZMKHQ6cWr8a6tqsXBIs2bsIi/qpsgnErZi4aP6YZd9SDVEr+mqzrXRv3XlToQVdSlU4DX8Ll2NqwurxI+ntVVwPkNWHAajkm+hRfyOGnggRov5CldNB6kCtrCu5pWEBcqv+v5iJS/DTYQH3a58I/n9OU0TDE0mdwvGXmZQPyOFjdNs+CQnFQLb+05gyTl8DQMPiHzBzvxxxJP8jej02ARHxzAg/9Iit+F/D5dfxuWMAf97xUeWTKcBITyk/JkBhe1TjB79xAPytTP78NacK/af5oI+Sktv7vAii5Oc/n/YAWtltfGA3aClPE/6aZ0xqWmV4v/nDYxEKVdITa/A/1D3ZKuuqfWdlP8lxWs3syB/iNJU2e6xry6HmECiD6ImZgo3uT+q+6lRlHD+9FkH7ntH6dJSQeqTOBG8r+RMNWci20cpnc64F0fEj0q/+NS/omk73SQG6ql/00p/jveC888x71Dij/lBnDH38idF/+D68yIyU0NngEPEP+zwFkINsD8rwID4dK97WNS/O8Cr3oj6cMx//8UWPTXuP+rR6eTp56xKf5f7hnojPvc75byzwrjAA6eNj1wcR+wxKKJ/79Kjpesd0r5aYnK06oIl8fzFAlL0vekeD6XBjWQK83AY3GyhPvVhNw7nmCdAowPz+CdLfMopcdOdBJNQKLemZH88tNcXMBrTtNIczImAFXvT+CZ4y69jXoxAF6KvKbl6evMfq+oSLvXxDMPILy4DDv6U8FKJ2ONC96Oqf6qQKR9MhqZc8kwxauZTWvXzoYZ6xtSCAXdflIKQzck4lN43Vu5B877W4rWWIsLPgHQ2CYxzxy1sh9CfXlDaTusrEaI6l2cvlaE7WLjXctlMRVLYVwoyHoweiwhJlXgApAiRTUKTFmKlQS1WtAUA5akuOvmwUcg2jnaFZs2H1oyjM4/Nmizk7vupJtnd+RzxYBn0p0tLW8LYZ7tuL89D9NbhJoAG59OBy/kSoJjlBzIqExxRIdEyBWSUu7Jj8XVgIAr6ao0daYkajvWjbpjerRJGOhOz9nFYwg/wccriHqElNfrznU8IVqADdd/GEXF37WDRnvoqg+ZqzvFWht8n+AHM3i5klgmhU3H+kNYSxtC633EMPQ3IeqQiDU1BnF0i3sQLHcUTk/ChAkxTk/ILRJ+QjJH/jiByk5AB10Zqt6MqEveB1d0p23Nrar+lo6s9J/TvURI3a6YdmYjtSbQpVFCI0brdeXXK0/cybExiUc3BR73x8ha8KJBjaO/r9bGzTQsjSlmD/o0/8wXzQi0MpDAaHMRUj3SA0pHkIezZTKfLdOqkeDRPoWzVcs761BUm+laSvVXMZhnJmMX/pq2VdNudUTOOe7wlvYYx2RRg64TOCxSTsQ36NLYg+P6uMaI+MSE4dLRE/FnEuE2N+viACiMluPtpsblWXjh9WlFEgdrFSxd9N5T2yQOuBhhbQb/U4N9GqF1Gt3KK8YZGZuUsQIomw0wmEuctDWlPe1Ft+6YAiY1zoX7czj3qgAuH45g3fzA2sarsxLbrDueBmXD6XbtQFeM1a470ek+78fgg3PF5Y14bYXODyAAj/rGEhEnWYZHc1TSN8k0xUGXvdVZZYq1sbfchrEZiaLPTQmPf3psfRyDHeD2Z5kpVQsk/gJ8zqJ96AF3D2/Cg7NmmgqRiDcbslIWsqosHPl64Su1PsKV5iOMyyt/kpPGRL0lpFGoMkpvbKoIpgeRDpY1uq9y8z+B/o+Ul/4pns+SzPeQPG3M9jDQCcQS63JzHDF69DTPc1g9LKjyxQRZjNzS08j8L0G+IvEmtuotCXITeQFDLSDtlrio9JLRpPYC47lnBe/exWPQPRD3LjOSjH2T3ggnuDRHrViYRLzFkJd9CIzkBa9Cjx9HuBTmY7eO2r00UuAyB8cKrDMRWr9JN1qG4BEKQ+7hER6pfTTh0YcWAH13oXzoVBgPUELYoywvhwERFFCZFhxxSpFV6iCrf50ha4q3uC3XEuSo4STV8no4Qm6biKrYSJgH+pF6OkDLZlYPOOwrxLms3sBRAguj0K8UW3Noknt1TZxXYCo59i5VxTmDLgOGF/XAbng6mYVjIO5JVvQVQ9C3GvLe0kRy1bzNEJf2wWmARBlTx3wvK+524lLB4WRy6hwvk3gcWdPRBBaCrVU5qRT3KUIXKkSwC8T9OIAhHZDigWa8v984POYGtVkaE4YotWPjgXms3+x7aIZSYedqn1CMqhpOtVXTNTtRJoRpYoS1EbknprqcgkTBIcYmCkOsI8LGFB6abMcwusXo8BRDyI35WdwmRc30ZlSnkCYTFq3aarCykDadUSLeDh9ntc5hSFX9S1gNAADtmGmUk+UVx583kwnrjMOiCSow0gFFMYO7InmjwsR9Xw5WXxTLgFQcEBPRCsMOQuJCa2tZqwkUUUqV6oEmwzgIVJbiIUEUpdSlqBnQnuPSU9Sq/d2bl5n3Qz/YD/1WDuH+8/yfuzz33mcJluUzZcbvt4zxGb9VPnzCTxL31jfETcDqOM0Y08lUme7GWEbnmZOM31d+3aix9dVntM/oKoI/Ko6xRKGH4DMb/7xz59GPDEwWQz411E8MXd4Qr5/UMGp89bUN4x+qHjaq4YFR95uA+e/NPmYR4HZrj9q2CLKi/MbEXXfXjxpNlB2OGuwyz5jFs4xpKVlOmZaxanyBNT1RYSp1pcfCV/eawejxQp1gTjS9fX1MX1PN2vubATjyTXlk9ZVTZg/78ZQHJ0+WSWXyD7mzzMnmFPRbrIG6MnPJhPGjjcLTFZ5q3Vg/rr6h+sZx9dVj6++fOKqhIV49KjGmejQDYyaMH1vfMBr6kvpx8UmbV4ytH2L8R0Mux/GscPYy37zpHy8q++meuqBfhjvwT1W5CYT5S2Q6hXIyWs1oY6HuWmNZvplm4kNexgo0kkZK6ptl9t3tZXyBqSuSx4nOLHPdei9T5uqU+WabDWd4GX+gMeTYxvLDXJX0MuWBKU3FdwyBzTZPr/EyATc2n2+OaSz3Mh3aIphjTuzlZTq6EfhhaoZ7mU6un3KY12/yMp0Djanw8JK1kTO9TBfXWgBmzO+8TNdA46F0X2N1gHljr5epCDTG88OM1dE316yzvExloDEWHCjZmWuePM7LHONmR5ivBnmZKpfpBDNymJfpFpj6QP5RWelcc/v1Xqa7u1KJ4MVbvUwPN4LOML9o8DI9XT9dYI7M9jLHBqZmiwtKfvb/3Msc5/rpCjN4iZcJSuXqpHJzTY91XibUVrm55oOcl+nl5lr8jMl7meNdPxJb7m0vc4IbWwXMoY+8zIlS0yHGqoT57l9eprcbQTm7ZEyZl+kjOtoH86bvqPQyfd3YymBSvbxMtZu3rr555pUaL3OSmwOxNniwl+nnsfb5EC/zI9eaH2v9Y16mxs3BMehce4WX6S86N6gfc+4tXmaA68cHc+ROL3Oym4NOWHu33suc4nZVFcxfx3uZgaKTNlY3rH15v5c51e0qMmrqG73Mae0ZNdvne5lBbmzdYZJPepnTA1MHZwebjp06WZYei6UT0vimxfPnlPWcMebyrs8PuuaqR0a/8P6R5LLLFlTO7uk35Uc6GzPIhK1p1nTLmmGZmZyElpltmTmWmWuZeZZ5xDLzLfOUZZZb1sWrLGuOtZIzZ4dldlq+XZZ53TIm0GO/z1gh55DdmvZHfdni8VEB/pBzfDSR7x9Nhb+za7NDo4W651X6C3VnKcgkGyKp8IDoyPh9kZCDhjETI4l83nbineyQsw57s+xCXcb2pcJr7Fhwke2vzb7ByON8Dis7Mn4Y4mYbm4ftTLIPA3k7V/w84sRXq/RnktMVpMIxtPoy+2I7kR9nE2c/nI2z/bnimUxfGCGNhHVKU8h5TqW/Ne2LCgg5vZG/ZpLIm2xW1jsacp61WTur2o7dndh8y/Yl8qsB79p+Jz6f0Y+xczvyCwZpUNMh6i+BHiRlNoMnYO85ldjcrWBk/GM0emC/lE+zgOSmwstZXbiJZf5NQbbYkZmjSFtlVOL2xYJ7SdtAScQu7HwbKdT9UZJB0L9R6SfLCkLORURwIgm+CEcTbJ+A1jQgFT6GyrkgFnzU9gsw5hMSeBDrFQwuUckyuimIBXtHMsn3yGpvDC+w/QIKda/xpUoDPRq5NMhFBLbKJq3D8PcaQcTRe59Alqqk/M0KCnV7kduJdq9qaIQCzDLeIoW6yZSKzq7NjsCGC1rTXaI+odoADG8ivsL1logvUNCavoPIB6gs1J0RJZw7MDOUVr0AJ8MhuqiEyNEgw0nAnRgbqlI1BJRM5HAnJks+eJ0YS4Jx4s9IJm4FbMX2TDLwDs6eUUmlWxTEgnvsVPhPJLfApBW2rwRYUCpchTcXJPIvSiGqonQx87/GaAVsi0ra+1cKYsH78FAGIUn5yPaNjF/fDoiwlJQ2gPVS4pAlIEEby0wvkzVIRZxmrH+ioDXdnYbsqTKTXJvzCVBbIWef3QZCTlH87VVAAnai/D1fXsJ4BfPnqGQTVykIOTUk9DATatieKclMTSQW3EjWKySuoYn8HJUQ6xTIRssVb4iIj0R+a4TA97UDVprD+D6mPr0xFW4hsP0bM8nlKiEeVJAK36ITnPjlbM/zN6J6dyRbnLmRTbso4sR7NXMyELjTfDQN0rvL7drskQhGJioo1F2KPJ+UX0otCV2AMU18JjJ4gDUtV0mzbFEQC77NojeqVI0SOJeYNmPqCDum5MPIadqaLiNfr0nhDbX9hlW/ibrk7AmV9HNpB2aS15Cvr3B8HUXdYlOzayKp8GJs7UY2kpWbieZuOSKW4J2z0on/gZCuxHszJi7AtsjeotqM2pFIJrmGge0kY6FKtsI9CnLFmE5w4hHSPlB2Zk+8nySq19Bct6Faid1wU6FuoUpUZZnhptpsgBU9zOwACzpdjvIAvT2VkL7g8xRRNNHeabG5gIDXyIw7WdY6PF8Nm8Xj1RDbZAFXo/I2i7ifCQdJ4UKVRLFGQSbZBLmX2S3IzTb9WsqnWUpypf/plWYqP4L0uCBXXBeheR0FXAqTMHsajSH57tYkZ5NI1vOtgtZ0kLN/PYsWmZRjTcBhDH7DhApOeNGgUk78cQWp8CSi/p4JDoEVbV8meUs70E0kkbUBicxYUr7WNPYFSAO1pqexpgPglSrphJ0KUuH3WLwk8T0moSEgkT+HmTvxc5CqrVQJMV2BmGxNn0VEIpO2bn46nhpz/SXyTynIJNfB7hwqOypbXByhQK+2A7al4S4t5+RxQchpsv0CcsXvML0H/xVk5pcqKWqNAtlsueLXZMShb7dJEmKE/qpsjOvx+wZfJhHlB7h6UiV77PcKQo7cE1LdZiY1S8fIwEY5QAQ8TzrkqfEs3hMEuELCCWBHrqJKNlpKpVyCdEwlLXkOx86HEVks4aB5CvdVbXY2qCVCHm5V0Jo+D+OfupKeF1CbvYrk3EYcdzE4n3yPkz2/GA8NEC8jH6CjpBVmyAnfzOCl8uaQQCtQ/y2fFlyXnJn9XCGyP7ULZHu0ATaNgK2E6gKlOF2HtoFY8IA8QmSOCwp1QUnLFsDJeBlEgHVU9DGS92WO1acZ2Jqrzb6A++KQTHIDfg5ciLE1MkOeT5LFz0ja06zxEIYXqWTx8xVIaLVZgxmJ9TTxKrHiXpbRBiREvR+NKTD3XunOAiXpR4I2UK9/EtxSleSmUYFcoNItsjkzyTG27lKxo7ujDeSKV8hR8SAGnuD46cz8Yi5X/JlKNt8qBa3prXRCFSdigXLsiHAa7m0HtK5cgvLYcYGal1jbgASt5YkFXy6NFuoebgfGHCsv24cpdB+6fQ4DNZhbqhJipYLa7Frkj9gaLyH7Ren6V0lSNMqqN7DKi3CcIa5LOBqTKqlAWIG0Ryx4tsra7LFRwpSexD1bt9QCAjTjQrUBlmTcEF2glCyjDYi6no1y5crxRjxy8Hbj8bsD9jTMSb44IuWibwNYNIDurNQF/H6Mcoy+RXO4QI84URdApXbg9ge+CvRgLYH1tGBXJnRrOhpi6VqWcwzdiQrkFmY30z6XEjS6AuRM/EHXsmqUwFl8NjP7IF5LPswBLf0yisStlsh/pkBe6rQUjntwEy8Qhz243t4nis+wK++yZSoJsbQ8eSDLBJGqIUBMyAQxKRoi5RxYRhbfkeWNV1CbHU4zn81nOPoEKyCRzzEwHvkuDpapJL7NCuRXiUwQqRoCxIRMEJOiIdLUyok3AkzVZFu1AQorW2IEOXSBUGYTzcKZVqKd+CtK06ydtBUS+b7kYy2nQ186+Wrx2xdiOUF0ZXe8gv9Pyf8mOS4+pZ22SOY60wy7WHuIJLWqdOKdZQOEaIoB2Ckj10MYfFlDwOuMUpgCcMpzPxUeyfKM/IQZif2MNN6LCmjoNxWEnL+Tp0dVylVMf8lAf8j9qivXjEi1IaBkNpPcVxqS37Wc5M8pYGG7FLSm5ZdMN5XZYpn8fJCBQzTSdtWVX6Qi1YYAs5aO+s8ZlkxR3BEYkHf+HAb2YWiVSgKW1/A+crmJRLzJpG3kc4/cg9uIvqs8OTbBVpCy9ajJz4UXVGLzCQWpcAMx+JlwK/IjmxPupnYgp4HWvg0QmDF/8csOcMjJ/18Hte6FTR7klpKT+DyM/49fB+y4i0F9pLvuUZBJzsX6ySr1x6mATPJC+lAmDCOTojFMNIIK5NKWCSJVQ4CYKE3o42r0icpdvVsRSf9QQSL/D/UmUnUFiLHShGGUWTTwFgvmFMj/iMgEka7GajVRmoAX1UDK+RpyQnxplgzEFMh/UHA4kpYJFPSQVHkCqbHonhjZ7Ew7hVTSObspVWein0G5LJY3k1qiIQNiQiaISdEQWfLG+0juupgCMd6aPsxlKnJJRL3RhrRiDL0aPiE+NbI3d2NdenUG5Nc4mEnl0ZABMSETxKRoiDTm3w==(/figma)--><strong>Seien Sie gespannt auf unseren Beitrag!</strong><!--(figmeta)eyJmaWxlS2V5IjoiR3VzQkpIZ0pKcDdFVmg5NUFjQnFpNyIsInBhc3RlSUQiOi0xLCJkYXRhVHlwZSI6InNjZW5lIn0K(/figmeta)--><!--(figma)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(/figma)--></p><div class='heateor_sss_sharing_container heateor_sss_vertical_sharing heateor_sss_bottom_sharing' style='width:44px;right: -10px;top: 100px;-webkit-box-shadow:none;box-shadow:none;' data-heateor-sss-href='https://inhubber.com/veranstaltungen/digitalisierung-immobilienbranche/'><div class="heateor_sss_sharing_ul"><a class="heateor_sss_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finhubber.com%2Fveranstaltungen%2Fdigitalisierung-immobilienbranche%2F" title="Facebook" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg" style="background-color:#3c589a;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#fff"></path></svg></span></a><a class="heateor_sss_button_twitter" href="https://twitter.com/intent/tweet?text=Digitalisierung%20in%20der%20Immobilienbranche&url=https%3A%2F%2Finhubber.com%2Fveranstaltungen%2Fdigitalisierung-immobilienbranche%2F" title="Twitter" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_twitter" style="background-color:#55acee;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-4 -4 39 39"><path d="M28 8.557a9.913 9.913 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.738 9.738 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.942 4.942 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a4.968 4.968 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174-.318 0-.626-.03-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.893 9.893 0 0 1-6.114 2.107c-.398 0-.79-.023-1.175-.068a13.953 13.953 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013 0-.213-.005-.426-.015-.637.96-.695 1.795-1.56 2.455-2.55z" fill="#fff"></path></svg></span></a><a class="heateor_sss_button_linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Finhubber.com%2Fveranstaltungen%2Fdigitalisierung-immobilienbranche%2F&title=Digitalisierung%20in%20der%20Immobilienbranche" title="Linkedin" rel="nofollow noopener" target="_blank" style="font-size:32px!important;box-shadow:none;display:inline-block;vertical-align:middle"><span class="heateor_sss_svg heateor_sss_s__default heateor_sss_s_linkedin" style="background-color:#0077b5;width:40px;height:40px;margin:0;display:inline-block;opacity:1;float:left;font-size:32px;box-shadow:none;display:inline-block;font-size:16px;padding:0 4px;vertical-align:middle;background-repeat:repeat;overflow:hidden;padding:0;cursor:pointer;box-sizing:content-box"><svg style="display:block;" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path d="M6.227 12.61h4.19v13.48h-4.19V12.61zm2.095-6.7a2.43 2.43 0 0 1 0 4.86c-1.344 0-2.428-1.09-2.428-2.43s1.084-2.43 2.428-2.43m4.72 6.7h4.02v1.84h.058c.56-1.058 1.927-2.176 3.965-2.176 4.238 0 5.02 2.792 5.02 6.42v7.395h-4.183v-6.56c0-1.564-.03-3.574-2.178-3.574-2.18 0-2.514 1.7-2.514 3.46v6.668h-4.187V12.61z" fill="#fff"></path></svg></span></a></div><div class="heateorSssClear"></div></div>		</div>
+    </div>
+
+            <div class="speakers">
+            <div class="wrap">
+                <h2 class="title">
+                    Referenten                </h2>
+                <div class="speakers__list">
+                                            <div class="speakers__item">
+                            <div class="speakers__image">
+                                    <img src="wp-content/uploads/2021/05/5.png" alt="">
+                            </div>
+                            <div class="speakers__name">Dr. Elena Mechik</div>
+                            <div class="speakers__pos">Chief Operating Officer</div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    
+        <div class="get-started get-started-new get-started_events">
+        <div class="wrap">
+            <h5 class="title-block">
+                Registrieren Sie sich jetzt hier!            </h5>
+            <a href="https://webinar.getresponse.com/Qr12i/immobilien-webinar/" target="_blank" class="btn btn-big">
+                Registrieren            </a>
+
+        </div>
+    </div>
+    
+                <div class="news news-article article-related article-related_events my-article-related_events">
+                <div class="wrap">
+                    <h2 class="title">
+                        Weitere Veranstaltungen                    </h2>
+            <div class="news__list">                    <div class="news__card">
+                        <a href="index.html@p=2866" class="news__img" style="background:url(wp-content/uploads/2022/03/pexels-yaroslav-shuraev-6279788-scaled.jpg) center/cover no-repeat">
+                        </a>
+                                 <div class="news__block">
+									 <div class="news__bottom mydataevent">
+                                            <span class="news__date-month">Aug</span>
+											<span class="news__date-day">02</span>
+                                        </div>
+                                        <div class="my-title-events">
+										<a href="index.html@p=2866" class="subtitle">
+                                            Mietverträge automatisch auf Stammdaten analysieren                                        </a>
+										<div class="my-adress-and-data">Mittwoch um 12:00 Uhr (online)</div>
+										</div>
+                                    </div>
+                    </div>
+                                    <div class="news__card">
+                        <a href="index.html@p=2845" class="news__img" style="background:url(wp-content/uploads/2021/02/samia-liamani-j2tofe0xduc-unsplash.jpg) center/cover no-repeat">
+                        </a>
+                                 <div class="news__block">
+									 <div class="news__bottom mydataevent">
+                                            <span class="news__date-month">Juli</span>
+											<span class="news__date-day">06</span>
+                                        </div>
+                                        <div class="my-title-events">
+										<a href="index.html@p=2845" class="subtitle">
+                                            Digitaler Mietvertrag &#8211; so einfach wie noch NIE!                                        </a>
+										<div class="my-adress-and-data">Donnerstag um 12:00 Uhr (online)</div>
+										</div>
+                                    </div>
+                    </div>
+                </div></div></div>    <footer class="footer">
+        <div class="footer__body">
+            <div class="wrap">
+                <!-- <div class="footer__menu"> -->
+                    <ul id="footer__list" class="footer__list"><li id="menu-item-323" class="not-click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-323"><a href="index.html@p=2863#">Inhubber</a>
+<ul class="sub-menu">
+	<li id="menu-item-1232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1232"><a href="index.html@p=1223">Produkt</a></li>
+	<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1233"><a href="index.html@p=1085">Sicherheit &#038; Datenschutz</a></li>
+</ul>
+</li>
+<li id="menu-item-332" class="not-click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332"><a href="index.html@p=2863#">Unternehmen</a>
+<ul class="sub-menu">
+	<li id="menu-item-1234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1234"><a href="index.html@p=973">Über uns</a></li>
+	<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="index.html@p=307">Blog</a></li>
+</ul>
+</li>
+</ul>                <!-- </div> -->
+                <div class="social">
+                                            <div class="footer__title">Soziale Medien</div>
+                                        <div class="social__list">
+                        <a href="https://www.linkedin.com/company/inhubber" target="_blank">
+                            <svg width="24" height="24" viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg" fill="#E1E7F4">
+                                <path d="M3.62412 0.00146484H20.3759C22.3774 0.00146484 24 1.62404 24 3.62559V20.3749C24 22.3765 22.3774 23.9991 20.3759 23.9991H3.62412C1.62257 23.9991 0 22.3765 0 20.3749V3.62559C0 1.62404 1.62257 0.00146484 3.62412 0.00146484Z" />
+                                <path d="M7.67913 20.1421V9.23606H4.05417V20.1421H7.67913ZM5.86713 7.74614C7.13121 7.74614 7.91805 6.90866 7.91805 5.86214C7.89453 4.79198 7.13121 3.97778 5.89113 3.97778C4.65117 3.97778 3.84033 4.79198 3.84033 5.86214C3.84033 6.90878 4.62693 7.74614 5.84349 7.74614H5.86701H5.86713Z" fill="#080F1E"/>
+                                <path d="M9.68549 20.1423H13.3104V14.0518C13.3104 13.7259 13.334 13.4002 13.4297 13.1671C13.6918 12.5159 14.2882 11.8415 15.2896 11.8415C16.6013 11.8415 17.1261 12.8416 17.1261 14.3076V20.1423H20.7508V13.8888C20.7508 10.5389 18.9624 8.98022 16.5774 8.98022C14.6219 8.98022 13.7633 10.0732 13.2863 10.8178H13.3106V9.23606H9.68561C9.73313 10.2594 9.68561 20.1421 9.68561 20.1421L9.68549 20.1423Z" fill="#080F1E"/>
+                                </svg>
+                        </a>
+                        <a href="https://www.facebook.com/inhubber" target="_blank">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="#E1E7F4" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="12" cy="12" r="12" fill="#080F1E"/>
+                                <path d="M24 12.0731C24 5.4046 18.6281 0 12 0C5.37188 0 0 5.4046 0 12.0731C0 18.1002 4.3875 23.0945 10.125 24V15.563H7.07812V12.0731H10.125V9.41325C10.125 6.3879 11.9156 4.71605 14.6578 4.71605C15.9703 4.71605 17.3438 4.95186 17.3438 4.95186V7.92297H15.8297C14.3391 7.92297 13.875 8.85439 13.875 9.80939V12.0731H17.2031L16.6711 15.563H13.875V24C19.6125 23.0945 24 18.1002 24 12.0731Z"/>
+                                </svg>
+                                
+                        </a>
+                        <a href="https://twitter.com/inhubber" target="_blank">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="#E1E7F4" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24Z" />
+                                <path d="M9.80384 18.3301C15.1258 18.3301 18.0358 13.9201 18.0358 10.0981C18.0358 9.97212 18.0358 9.84612 18.0298 9.72612C18.5938 9.31812 19.0858 8.80812 19.4758 8.22612C18.9598 8.45412 18.4018 8.61012 17.8138 8.68212C18.4138 8.32212 18.8698 7.75812 19.0858 7.08012C18.5278 7.41012 17.9098 7.65012 17.2498 7.78212C16.7218 7.21812 15.9718 6.87012 15.1378 6.87012C13.5418 6.87012 12.2458 8.16612 12.2458 9.76212C12.2458 9.99012 12.2698 10.2121 12.3238 10.4221C9.91784 10.3021 7.78784 9.15012 6.35984 7.39812C6.11384 7.82412 5.96984 8.32212 5.96984 8.85012C5.96984 9.85212 6.47984 10.7401 7.25984 11.2561C6.78584 11.2441 6.34184 11.1121 5.95184 10.8961V10.9321C5.95184 12.3361 6.94784 13.5001 8.27384 13.7701C8.03384 13.8361 7.77584 13.8721 7.51184 13.8721C7.32584 13.8721 7.14584 13.8541 6.96584 13.8181C7.33184 14.9701 8.39984 15.8041 9.66584 15.8281C8.67584 16.6021 7.42784 17.0641 6.07184 17.0641C5.83784 17.0641 5.60984 17.0521 5.38184 17.0221C6.64784 17.8501 8.17184 18.3301 9.80384 18.3301Z" fill="#080F1E"/>
+                                </svg>
+                                
+                        </a>
+                        <a href="https://www.youtube.com/inhubber" target="_blank">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="#E1E7F4" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M23.4955 6.19086C23.2227 5.1545 22.4045 4.33632 21.3682 4.04996C19.5 3.54541 12 3.54541 12 3.54541C12 3.54541 4.5 3.54541 2.61818 4.04996C1.58182 4.32268 0.777273 5.14086 0.490909 6.19086C6.50233e-08 8.07268 0 12 0 12C0 12 -3.25116e-08 15.9272 0.504545 17.809C0.777273 18.8454 1.59545 19.6636 2.63182 19.95C4.5 20.4545 12 20.4545 12 20.4545C12 20.4545 19.5 20.4545 21.3818 19.95C22.4182 19.6772 23.2227 18.859 23.5091 17.809C24 15.9272 24 12 24 12C24 12 24 8.07268 23.4955 6.19086Z" />
+                                <path d="M9.54547 15.5725L15.8182 11.9997L9.54547 8.427V15.5725Z" fill="#080F1E"/>
+                                </svg>
+                        </a>
+                        <a href="https://www.instagram.com/inhubber" target="_blank">
+                            <svg width="24" height="24" viewBox="0 0 24 24"  xmlns="http://www.w3.org/2000/svg" fill="#E1E7F4">
+                                <path d="M7.12961 0.262451C8.39055 0.206201 8.79367 0.192139 11.9999 0.192139C15.2062 0.192139 15.6093 0.206201 16.8749 0.257764C18.1359 0.314014 18.9937 0.515576 19.7437 0.806201C20.5171 1.11089 21.178 1.51401 21.8343 2.17026C22.4905 2.82651 22.8984 3.48276 23.1984 4.26089C23.489 5.01558 23.6905 5.87339 23.7468 7.12964C23.803 8.39058 23.8171 8.78901 23.8171 12C23.8171 15.2109 23.803 15.6093 23.7468 16.8703C23.6905 18.1312 23.489 18.989 23.1984 19.739C22.8937 20.5125 22.4905 21.1734 21.8343 21.8296C21.178 22.4859 20.5218 22.8937 19.7437 23.1937C18.989 23.4843 18.1312 23.6859 16.8749 23.7421C15.614 23.7984 15.2155 23.8125 12.0046 23.8125C8.79367 23.8125 8.39523 23.7984 7.1343 23.7421C5.87336 23.6859 5.01555 23.4843 4.26555 23.1937C3.49211 22.889 2.83117 22.4859 2.17492 21.8296C1.51867 21.1734 1.11086 20.5171 0.810858 19.739C0.520233 18.9843 0.318671 18.1265 0.262421 16.8703C0.206171 15.6093 0.192108 15.2062 0.192108 12C0.192108 8.7937 0.206171 8.39058 0.262421 7.13433C0.318671 5.87339 0.520233 5.01558 0.810858 4.26558C1.11555 3.49214 1.51867 2.8312 2.17492 2.17495C2.83117 1.5187 3.48742 1.11089 4.26555 0.810889C5.01555 0.520264 5.87336 0.318701 7.12961 0.262451Z" />
+                                <path d="M11.9999 5.93433C8.65305 5.93433 5.9343 8.64839 5.9343 12C5.9343 15.3515 8.65305 18.0656 11.9999 18.0656C15.3468 18.0656 18.0655 15.3468 18.0655 12C18.0655 8.65308 15.3468 5.93433 11.9999 5.93433ZM11.9999 15.9375C9.82492 15.9375 8.06242 14.175 8.06242 12C8.06242 9.82495 9.82492 8.06245 11.9999 8.06245C14.1749 8.06245 15.9374 9.82495 15.9374 12C15.9374 14.175 14.1749 15.9375 11.9999 15.9375Z" fill="#080F1E"/>
+                                <path d="M18.3044 7.11103C19.0862 7.11103 19.72 6.47724 19.72 5.69541C19.72 4.91358 19.0862 4.27979 18.3044 4.27979C17.5226 4.27979 16.8888 4.91358 16.8888 5.69541C16.8888 6.47724 17.5226 7.11103 18.3044 7.11103Z" fill="#080F1E"/>
+                                </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer__bottom">
+            <div class="wrap">
+                <a href="xmlrpc.php"  rel="home" class="logo" title="INHUBBER">
+                    <img src="wp-content/themes/inhubber/assets/img/logo.svg" alt="INHUBBER" >
+                </a>
+                                    <p class="footer__copy">Copyright © 2022 - INHUBBER (key2contract GmbH)</p>
+                                <ul id="footer-bottom__menu" class="footer-bottom__menu"><li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="index.html@p=376">Imprint</a></li>
+<li id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="index.html@p=366">Datenschutzerklärung</a></li>
+</ul>                <ul class="language">	<li class="lang-item lang-item-2 lang-item-de current-lang lang-item-first"><a  lang="de-DE" hreflang="de-DE" href="index.html@p=2863">de</a></li>
+	<li class="lang-item lang-item-5 lang-item-en no-translation"><a  lang="en-US" hreflang="en-US" href="en/index.html">en</a></li>
+</ul>
+                <div class="footer__made">
+                    <div class="made__flag">
+                        <img src="wp-content/uploads/2021/05/flag.svg" alt="">
+                    </div>
+                    <div class="made__label">
+                        Made in<br />
+Germany                    </div>
+                </div>
+                <div class="footer__gdpr">
+                    <img src="wp-content/uploads/2021/05/dsgvo-logo.svg" alt="">
+                </div>
+            </div>
+		</div>
+
+    </footer>
+    
+    			<!--facebook like and share js -->
+			<div id="fb-root"></div>
+			<script>
+				(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+		<script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_responsive_toggle == 'function') {
+        sfsi_responsive_toggle(0);
+        // console.log('sfsi_responsive_toggle');
+
+    }
+})
+</script>
+    <script>
+        window.addEventListener('sfsi_functions_loaded', function() {
+            if (typeof sfsi_plugin_version == 'function') {
+                sfsi_plugin_version(2.77);
+            }
+        });
+
+        function sfsi_processfurther(ref) {
+            var feed_id = 'N3ZZZ1ZVR2lCY1M2SlFOSzIvSzlXRHFHSmhCcjJFb0pmS3pyRzhUSkxJWmdTMS9pLzlmRE1WL05HTHN5a1NmWGxTeEt0WTRSc2dLVEJoMHh5K2IxdnZsWFV2ZGtIdll2cjdWK1BxV08zQ0hkVUwycjZVWmh2VkwyVURYNldBNFF8Vnl2S052RDZhdjJ3MU5zK1FyalpWVXlaMlBrOTY1WnFISnZ3M1ZiK1NWaz0=';
+            var feedtype = 8;
+            var email = jQuery(ref).find('input[name="email"]').val();
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if ((email != "Enter your email") && (filter.test(email))) {
+                if (feedtype == "8") {
+                    var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+                    window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+                    return true;
+                }
+            } else {
+                alert("Please enter email address");
+                jQuery(ref).find('input[name="email"]').focus();
+                return false;
+            }
+        }
+    </script>
+    <style type="text/css" aria-selected="true">
+        .sfsi_subscribe_Popinner {
+            width: 100% !important;
+
+            height: auto !important;
+
+            padding: 18px 0px !important;
+
+            background-color: #ffffff !important;
+        }
+        .sfsi_subscribe_Popinner form {
+            margin: 0 20px !important;
+        }
+        .sfsi_subscribe_Popinner h5 {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-weight: bold !important;
+
+            color: #000000 !important;
+
+            font-size: 16px !important;
+
+            text-align: center !important;
+            margin: 0 0 10px !important;
+            padding: 0 !important;
+        }
+        .sfsi_subscription_form_field {
+            margin: 5px 0 !important;
+            width: 100% !important;
+            display: inline-flex;
+            display: -webkit-inline-flex;
+        }
+
+        .sfsi_subscription_form_field input {
+            width: 100% !important;
+            padding: 10px 0px !important;
+        }
+
+        .sfsi_subscribe_Popinner input[type=email] {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+        }
+        .sfsi_subscribe_Popinner input[type=email]:-moz-placeholder {
+            /* Firefox 18- */
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {
+            /* Firefox 19+ */
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+        }
+
+        .sfsi_subscribe_Popinner input[type=submit] {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-weight: bold !important;
+
+            color: #000000 !important;
+
+            font-size: 16px !important;
+
+            text-align: center !important;
+
+            background-color: #dedede !important;
+        }
+
+        .sfsi_shortcode_container {
+            /* float: right; */
+        }
+
+        .sfsi_shortcode_container .norm_row.sfsi_wDiv {
+            position: relative !important;
+            float: none;
+            margin: 0 auto;
+        }
+
+        .sfsi_shortcode_container .sfsi_holders {
+            display: none;
+        }
+
+            </style>
+
+		<!-- Von Site Kit hinzugefügtes Google-Tag-Manager-(noscript)-Snippet -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXX6579" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- Ende des von Site Kit hinzugefügten Google-Tag-Manager-(noscript)-Snippets -->
+		<script src='wp-includes/js/jquery/ui/core.min.js@ver=1.13.1' id='jquery-ui-core-js'></script>
+<script src='wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js@ver=6.0.3' id='SFSIjqueryModernizr-js'></script>
+<script src='wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js@ver=6.0.3' id='SFSIjqueryShuffle-js'></script>
+<script src='wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js@ver=6.0.3' id='SFSIjqueryrandom-shuffle-js'></script>
+<script id='SFSICustomJs-js-extra'>
+var sfsi_icon_ajax_object = {"ajax_url":"https:\/\/inhubber.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/inhubber.com\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+</script>
+<script src='wp-content/plugins/ultimate-social-media-icons/js/custom.js@ver=2.7.8' id='SFSICustomJs-js'></script>
+<script id='heateor_sss_sharing_js-js-before'>
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://inhubber.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://inhubber.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://inhubber.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script src='wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js@ver=3.3.43' id='heateor_sss_sharing_js-js'></script>
+    <script src="wp-content/themes/inhubber/assets/js/jquery.min.js"></script>
+    <script src="wp-content/themes/inhubber/assets/js/owl.carousel.js"></script>
+    <script src="wp-content/themes/inhubber/assets/js/main.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.reviews__list').owlCarousel({
+                loop: true,
+                margin: 5,
+                nav: true,
+                dots: false,
+                smartSpeed: 1000,
+                autoplayTimeout: 10000,
+                items: 1
+
+            });
+        });
+    </script>
+</body>
+</html>
