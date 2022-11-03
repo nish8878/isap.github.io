@@ -4726,7 +4726,7 @@ img[alt] {
     #product .product__cta .cta__block {
       padding: 48px;
       border-radius: 12px;
-      background: #3574F6; }
+      background: black; }
       @media (max-width: 767px) {
         #product .product__cta .cta__block {
           padding: 48px 24px; } }
